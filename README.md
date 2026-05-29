@@ -58,8 +58,7 @@ void main() {
     }
 
     printf("\nSending frame %d\nFRAME ACKNOWLEDGED...\n", j);
-    printf("\n\nALL FRAMES RECEIVED SUCCESSFULLY\n\n");
-}
+    printf("\n\nALL FRAMES RECEIVED SUCCESSFULLY\n\n");}
 
 🖥️ Sample Output
 
