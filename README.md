@@ -28,10 +28,8 @@ Add: netproto and pthread
 
 💻 Program
 
-#include <stdio.h>
-
-void main() {
-    
+    #include <stdio.h>
+    void main() {
     int i, j, n;
     printf("GO BACK N ARQ\n");
     printf("Enter number of frames: ");
@@ -58,8 +56,8 @@ void main() {
     }
 
     printf("\nSending frame %d\nFRAME ACKNOWLEDGED...\n", j);
-    printf("\n\nALL FRAMES RECEIVED SUCCESSFULLY\n\n");
-}
+    printf("\n\nALL FRAMES RECEIVED SUCCESSFULLY\n\n");}
+
 
 🖥️ Sample Output
 
